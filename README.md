@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashant_2152" target="blank"><img src="https://img.shields.io/twitter/follow/prashant_2152?logo=twitter&style=for-the-badge" alt="prashant_2152" /></a> </p>
 
-- 🔭 I’m currently working on **creating a notes website(Project)**
-
-- 🌱 I’m currently learning 
+- 🔭 I’m currently exploring on **Data analytics Part**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PRASHANT2152RAJ](https://github.com/PRASHANT2152RAJ)
 
