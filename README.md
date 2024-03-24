@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **creating a notes website(Project)**
 
-- 🌱 I’m currently learning **about to start React**
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [https://github.com/PRASHANT2152RAJ](https://github.com/PRASHANT2152RAJ)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Instagram : https://www.instagram.com/prashantraj.__/ Gmail : prahant850092@gmail.com**
 
-- ⚡ Fun fact **I think i smiled a lot even in things are so small**
+- ⚡ Fun fact **I think i smiled a lot even if things are so small**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
